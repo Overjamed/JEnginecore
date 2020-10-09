@@ -1,0 +1,7 @@
+#div Terminal = file(overjamed.terminal.dll(class="Terminal"));
+#div tsp = new Terminal();
+#class main
+#tsp.load(overjamed.systematic);
+#tsp.restart;
+#return
+#end class
