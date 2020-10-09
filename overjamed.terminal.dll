@@ -1,0 +1,8 @@
+class Terminal {
+!main!
+  SystemInputName = new NameCatcher();
+  Core = main;
+  var filename = string;
+  SystemInputName.GetName(Output = var.filenmae.string);
+  Core.load();
+}
